@@ -1,2 +1,4 @@
 .DS_Store
-*.pyc
+*.pyc.ipynb_checkpoints/
+. .. .git .gitignore .ipynb_checkpoints .virtual_documents
+. .. .git .gitignore .ipynb_checkpoints .virtual_documents
