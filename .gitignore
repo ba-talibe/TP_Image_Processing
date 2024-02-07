@@ -1,5 +1,10 @@
-.DS_Store
+*.DS_Store
 *.pyc
 .ipynb_checkpoints/
 .virtual_documents
 .virtual_documents
+*.tif
+*.exif
+*.jpg
+*.db
+*.xcf
