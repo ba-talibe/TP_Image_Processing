@@ -2,10 +2,8 @@
 *.pyc
 .ipynb_checkpoints/
 .virtual_documents
-.virtual_documents
 *.tif
 *.exif
 *.jpg
 *.db
-*.png
 *.xcf
